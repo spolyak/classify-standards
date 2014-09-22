@@ -19,7 +19,7 @@ var csvStream = csv()
             var tokens = copy.split(" ");
 
             for (var j = tokens.length - 1; j >= 0; j--) {
-                if(mathWord.terms.indexOf(tokens[j].toLowerCase()) != -1) {
+                if(mathWord.terms.indexOf(stemmer(tokens[j].toLowerCase())) != -1) {
                   found = true;
                   break;
               } else {

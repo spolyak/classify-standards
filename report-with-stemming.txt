@@ -1,0 +1,2470 @@
+Found: Numbers
+Found: Writing system
+Found: Numeral system
+Found: Grammatical number
+Not Found: Writing
+Found: Natural number
+Found: Number
+Found: Finite set
+Found: Natural number
+Not Found: Answer
+Not Found: Question
+Not Found: Array
+Found: Mathematics
+Found: Negative and non-negative numbers
+Found: Integer
+Found: Elementary arithmetic
+Found: Plus and minus signs
+Found: Addition
+Found: Problem solving
+Found: Subtraction
+Found: Equals sign
+Found: Natural number
+Found: Binary relation
+Found: Inequality
+Found: Equality
+Found: Number
+Not Found: Drawing
+Not Found: 0
+Found: Elementary arithmetic
+Found: Real number
+Found: Integer
+Found: Plus and minus signs
+Found: Subtraction
+Found: Problem solving
+Found: Addition
+Not Found: 0
+Found: Real number
+Found: Addition
+Found: Plus and minus signs
+Found: Problem solving
+Not Found: 0
+Found: Elementary arithmetic
+Found: Real number
+Found: Integer
+Found: Plus and minus signs
+Found: Subtraction
+Found: Problem solving
+Found: Addition
+Found: Mathematics
+Found: Elementary arithmetic
+Not Found: Summation
+Found: Negative and non-negative numbers
+Found: Arithmetic
+Found: Integer
+Found: Plus and minus signs
+Found: Subtraction
+Found: Elementary arithmetic
+Found: Addition
+Found: Addition
+Found: Equals sign
+Found: Negative and non-negative numbers
+Found: Elementary arithmetic
+Found: Addition
+Found: Integer
+Found: Subtraction
+Found: Meaning of life
+Found: Plus and minus signs
+Not Found: 0
+Found: Real number
+Found: Negative and non-negative numbers
+Found: Natural number
+Found: Addition
+Found: Integer
+Found: Subtraction
+Found: Binary relation
+Not Found: Array
+Found: Arithmetic
+Found: Addition
+Found: Real number
+Not Found: Summation
+Found: Finger counting
+Not Found: Parity
+Not Found: Group
+Not Found: Summation
+Found: Mathematical notation
+Found: Elementary arithmetic
+Found: Natural number
+Found: Arithmetic
+Found: Numbers
+Found: Grammatical number
+Found: Number
+Found: Natural number
+Found: Real number
+Found: Numbers
+Not Found: Shareholder
+Not Found: Stock
+Found: Grammatical number
+Not Found: Stock market
+Found: Number
+Not Found: Share
+Found: Elementary arithmetic
+Found: Mathematics
+Found: Problem solving
+Found: Karatsuba algorithm
+Not Found: Strategy
+Not Found: Group
+Not Found: Field
+Found: Real number
+Found: Multiplication
+Found: Integer
+Found: Division
+Found: Natural number
+Found: Mathematics
+Not Found: Abacus
+Found: Matrix
+Found: Elementary arithmetic
+Found: Division
+Found: Multiplication
+Found: Problem solving
+Found: The Great Unknown
+Not Found: The Unknown
+Found: Integer
+Not Found: Abacus
+Found: Addition
+Found: Operation
+Found: Elementary arithmetic
+Found: Multiplication
+Found: Inequation
+Found: Problem solving
+Not Found: The Unknown
+Found: Integer sequences
+Found: Natural number
+Found: Prime number
+Found: Arithmetic
+Not Found: The Chronicles of Amber
+Not Found: Perl
+Found: Bracket
+Found: Numbers
+Found: Mathematics
+Found: Number
+Found: Number
+Found: Ordered pair
+Found: Mathematics
+Not Found: Drawing
+Not Found: Decomposition
+Found: Exponentiation
+Found: Composition
+Found: Composition
+Found: Numerical digit
+Found: Comparisons
+Found: Comparison
+Not Found: Following
+Not Found: English-language films
+Not Found: Dyslexia
+Found: Natural number
+Found: Numeral system
+Found: Number
+Not Found: Following
+Not Found: English-language films
+Found: Numbers
+Found: Japanese numerals
+Found: Names of large numbers
+Found: Grammatical number
+Found: Numeral system
+Found: Number
+Found: Numerical digit
+Found: Comparisons
+Found: Comparison
+Found: Subtraction
+Found: Addition
+Found: Arithmetic
+Found: Elementary arithmetic
+Found: Plus and minus signs
+Found: Addition
+Found: Subtraction
+Found: Scientific method
+Found: Inductive reasoning
+Found: Arithmetic
+Not Found: 0
+Found: Plus and minus signs
+Found: Negative and non-negative numbers
+Found: Elementary arithmetic
+Found: Subtraction
+Found: Integer
+Found: Addition
+Not Found: Microeconomics
+Found: Roman numerals
+Not Found: Decimal
+Found: Arithmetic
+Found: Mathematics
+Found: Elementary arithmetic
+Found: Plus and minus signs
+Found: Addition
+Found: Subtraction
+Found: Integer
+Found: Harshad number
+Found: Natural number
+Found: Numerical digit
+Found: Rectangle
+Not Found: Array
+Found: Division
+Found: Integer
+Not Found: Calculator
+Found: Quotient
+Found: Division
+Found: Numerical digit
+Found: Number
+Found: Natural number
+Found: Numeral system
+Found: Numbers
+Found: Japanese numerals
+Found: Names of large numbers
+Found: Grammatical number
+Found: Comparisons
+Found: Comparison
+Found: Numeral system
+Found: Number
+Not Found: Left-wing politics
+Not Found: Decimal
+Found: Elementary mathematics
+Found: Division
+Found: Mathematics
+Found: Exponentiation
+Found: Number
+Found: Elementary arithmetic
+Found: Integer
+Found: Multiplication
+Not Found: Decimal
+Not Found: Orthography
+Not Found: Dyslexia
+Not Found: Sing Tao Daily
+Found: Natural number
+Found: Integer
+Found: Multiplication
+Found: Standardization
+Found: Addition
+Not Found: Array
+Not Found: Group
+Not Found: Field
+Found: Multiplication
+Found: Integer
+Not Found: Calculator
+Found: Quotient
+Found: Division
+Found: Negative and non-negative numbers
+Not Found: Strategy
+Found: Arithmetic
+Found: Plus and minus signs
+Found: Subtraction
+Found: Integer
+Found: Addition
+Found: Elementary arithmetic
+Not Found: Object
+Not Found: Object
+Not Found: Object
+Not Found: Object
+Not Found: Category theory
+Not Found: Category
+Not Found: Quantity
+Found: Vector space
+Found: Units of measurement
+Found: Length
+Not Found: Astronomical clock
+Not Found: Hour
+Not Found: Clock
+Found: Time
+Found: Data
+Not Found: Chart
+Not Found: Bar chart
+Not Found: Category theory
+Not Found: Category
+Found: Systems of measurement
+Not Found: Psychometrics
+Not Found: Metrology
+Found: Number sense
+Found: Measuring instrument
+Found: Measurement
+Found: Units of measurement
+Found: Problem solving
+Not Found: Bar chart
+Not Found: Chart
+Found: Data
+Found: Length
+Not Found: Psychometrics
+Found: Number sense
+Not Found: Ruler
+Found: Units of measurement
+Found: Measurement
+Found: Measuring instrument
+Found: Computer data
+Found: Plot
+Found: Data
+Found: Real number
+Not Found: Ring
+Found: Integer
+Found: Elementary arithmetic
+Found: Problem solving
+Found: Computer data
+Found: Plot
+Found: Data
+Found: Problem solving
+Found: Tape measure
+Not Found: Virtual instrumentation
+Found: Test method
+Found: Units of measurement
+Found: Measuring instrument
+Not Found: Ruler
+Found: Measurement
+Found: Dimensional analysis
+Not Found: Metrology
+Found: Systems of measurement
+Found: International System of Units
+Found: Measurement
+Found: Distance
+Found: Length
+Found: Units of measurement
+Found: Length
+Not Found: Inch
+Found: Orders of magnitude
+Found: Test method
+Not Found: Metrology
+Found: Length
+Found: Units of measurement
+Found: Digital clock
+Found: Digital television
+Not Found: Analog television
+Not Found: Clock
+Found: Time
+Not Found: Analog signal
+Found: Digital
+Found: Mathematics
+Found: Problem solving
+Found: Numbers
+Found: Grammatical number
+Found: Number
+Found: Real number
+Found: Problem
+Found: Mathematics
+Found: Problem solving
+Found: Real number
+Found: Problem solving
+Not Found: Perception
+Not Found: Ontology
+Not Found: Density
+Found: Volume
+Found: Units of measurement
+Not Found: Litre
+Not Found: Metrology
+Found: Metric system
+Not Found: Kilogram
+Found: Mass
+Found: Real number
+Found: Systems of measurement
+Found: Units of measurement
+Found: Number
+Not Found: Psychometrics
+Found: Number sense
+Found: Measurement
+Found: Units of measurement
+Found: Measuring instrument
+Not Found: Quantity
+Found: Real number
+Found: Distance
+Found: Mathematics
+Found: Rectangle
+Found: Length
+Found: Square
+Found: Area
+Found: Regular polygon
+Found: Volume
+Found: Square
+Found: Rectangle
+Found: Mathematics
+Not Found: Metre
+Not Found: Pound
+Not Found: Metrology
+Found: Metric system
+Found: International System of Units
+Found: Systems of measurement
+Found: Measurement
+Found: Units of measurement
+Not Found: English language
+Found: Angle
+Found: Angle
+Found: Length
+Found: Systems of measurement
+Found: Units of measurement
+Found: Integer
+Found: Subtraction
+Not Found: Summation
+Found: Mathematics
+Found: Real number
+Found: Arithmetic
+Found: Angle
+Found: Addition
+Not Found: Perception
+Found: Sphere
+Found: Problem solving
+Found: Systems of measurement
+Found: Measurement
+Found: Test method
+Not Found: Metrology
+Found: Units of measurement
+Found: Real number
+Found: Dimension
+Found: Sphere
+Found: Euclidean space
+Found: Formal system
+Found: Difference
+Not Found: Ecology
+Found: Glossary of shapes with metaphorical names
+Not Found: Environmentalism
+Found: Natural environment
+Not Found: Environment
+Not Found: Earth
+Not Found: World
+Not Found: Universe
+Not Found: Shape
+Not Found: Painting
+Found: Geometry
+Found: Quadrilaterals
+Found: Square
+Found: Rectangle
+Not Found: Shape
+Found: Cuboid
+Not Found: Word
+Not Found: Quarters
+Found: Square
+Found: Polygons
+Found: Polygon
+Found: Natural number
+Not Found: Shape
+Found: Cartesian coordinate system
+Found: Angle
+Not Found: Category theory
+Found: Square
+Found: Surface area
+Found: Part
+Found: Area
+Found: Elementary arithmetic
+Found: Triangle
+Not Found: Orientation
+Found: Geometry
+Found: Right triangle
+Found: Perpendicular
+Found: Parallel
+Found: Cartesian coordinate system
+Found: Angle
+Found: Symmetry
+Found: Figure
+Found: Cartesian product
+Found: Coordinate systems
+Found: Cartesian coordinate system
+Found: Polar coordinate system
+Found: Perpendicular
+Found: Number
+Found: Euclidean geometry
+Found: Analytic geometry
+Not Found: Category theory
+Found: Complex number
+Found: Euclidean geometry
+Not Found: RenÃ© Descartes
+Found: Dimension
+Found: Perpendicular
+Found: Polar coordinate system
+Found: Analytic geometry
+Found: Number
+Found: Polygons
+Found: Right triangle
+Found: Geometry
+Found: Triangle
+Found: Polygon
+Found: Quadrilateral
+Found: Square
+Found: Rectangle
+Found: Differential geometry
+Found: Area
+Found: Length
+Found: Formula
+Found: Parallelepiped
+Found: Prism
+Found: Cuboid
+Found: Volume
+Found: Geometry
+Found: Problem solving
+Found: Mathematics
+Found: Surface area
+Found: Integral
+Found: Heron's formula
+Found: Rectangle
+Found: Square
+Found: Area
+Not Found: Plan
+Not Found: Technical drawing
+Found: Problem solving
+Found: Nine-point circle
+Found: Angle
+Found: Polygon
+Found: Congruence
+Found: Pythagorean theorem
+Found: Geometry
+Found: Triangle
+Found: Circumference
+Not Found: Pi
+Found: Circle
+Found: Problem solving
+Found: Complementary angles
+Found: Angle
+Found: Cone
+Found: Area
+Found: Angle
+Found: Rectangle
+Found: Volume
+Found: Integral
+Found: Prism
+Found: Square
+Found: Polar coordinate system
+Found: Spherical coordinate system
+Found: Figure
+Found: Congruence
+Found: Triangles
+Found: Law of cosines
+Found: Geometry
+Found: Hypotenuse
+Found: Triangle
+Found: Right triangle
+Found: Mathematics
+Found: Pythagorean theorem
+Found: Pythagorean triple
+Found: Mathematical proof
+Found: Euclidean distance
+Found: Theorem
+Found: Mathematics
+Found: Pythagorean theorem
+Found: Geometry
+Found: Pythagorean triple
+Found: Mathematical proof
+Found: Theorem
+Found: Mathematics
+Found: Pythagorean theorem
+Found: Part
+Found: Fractions
+Found: Fraction
+Found: Numbers
+Found: Fraction
+Found: Number
+Found: Scientific method
+Found: Inductive reasoning
+Found: Numbers
+Found: Fraction
+Found: Fraction
+Found: Number
+Found: Comparisons
+Found: Comparison
+Found: Fraction
+Found: Fractions
+Found: Fractions
+Found: Fraction
+Not Found: Summation
+Found: Mathematical notation
+Found: Egyptian fraction
+Found: Fraction
+Found: Fractions
+Found: Fraction
+Found: Comparison
+Found: Number
+Found: Mathematical notation
+Found: Multiplication
+Found: Factorization
+Found: Real number
+Found: Division
+Found: Elementary arithmetic
+Found: Natural number
+Found: Exponentiation
+Found: Elementary arithmetic
+Found: Fractions
+Found: Number
+Not Found: 10
+Found: Roman numerals
+Not Found: Decimal
+Found: Fractions
+Found: Fraction
+Found: Mathematical notation
+Found: Arithmetic
+Found: Numbers
+Found: Addition
+Found: Number
+Found: Elementary arithmetic
+Found: Number
+Found: Mathematical notation
+Found: Multiplication
+Found: Factorization
+Found: Real number
+Found: Division
+Found: Elementary arithmetic
+Found: Natural number
+Found: Problem
+Found: Numbers
+Found: Fraction
+Found: Number
+Found: Problem solving
+Found: Fractions
+Found: Mathematics
+Found: Elementary arithmetic
+Found: Elementary arithmetic
+Not Found: Divisor
+Found: Number
+Found: Fraction
+Found: Division
+Found: Number
+Not Found: Cognition
+Not Found: Philosophy of language
+Not Found: Cognition
+Found: Number
+Found: Egyptian fraction
+Not Found: Group
+Found: Elementary arithmetic
+Found: Division
+Found: Fraction
+Found: Ratios
+Found: Ratio
+Found: Algebra
+Found: Real number
+Found: Euclid's Elements
+Found: Problem solving
+Found: Mathematics
+Found: Elementary mathematics
+Found: Units of measurement
+Not Found: Sing Tao Daily
+Found: Algorithm
+Found: Divide and conquer algorithm
+Found: Standardization
+Found: Problem
+Found: Multiplicative inverse
+Found: Division
+Found: Elementary arithmetic
+Not Found: Divisor
+Found: Fraction
+Found: Division
+Found: Problem solving
+Found: Problem solving
+Found: Multiplication
+Found: Elementary arithmetic
+Found: Addition
+Found: Elementary arithmetic
+Not Found: Divisor
+Found: Addition
+Found: Integer
+Found: Distributivity
+Found: Least common multiple
+Found: Arithmetic
+Found: Greatest common divisor
+Found: Negative and non-negative numbers
+Found: Meaning of life
+Found: Counting rods
+Found: Real number
+Found: Integer
+Not Found: 0
+Found: Addition
+Not Found: Electric charge
+Found: Polar coordinate system
+Found: Perpendicular
+Found: Line
+Found: Plane
+Found: Integer
+Found: Analytic geometry
+Found: Euclidean geometry
+Found: Real number
+Found: Absolute value
+Found: Coordinate system
+Found: Real number
+Found: Coordinate systems
+Found: Geometry
+Found: Polar coordinate system
+Found: Elementary mathematics
+Found: Analytic geometry
+Found: Negative and non-negative numbers
+Found: Elementary arithmetic
+Found: Plus and minus signs
+Found: Addition
+Found: Subtraction
+Found: Mathematics
+Found: Integer
+Found: Real number
+Found: Rationality
+Found: Mathematics
+Found: Number
+Not Found: Pi
+Not Found: Estimation
+Found: Approximation
+Found: Irrational number
+Found: Real number
+Found: Problem solving
+Found: Elementary mathematics
+Found: Real number
+Found: Rational number
+Found: Mathematics
+Not Found: Ring
+Found: Multiplication
+Found: Multiplicative inverse
+Found: Elementary arithmetic
+Found: Real number
+Found: Division
+Found: Integer
+Not Found: Field
+Not Found: Hexadecimal
+Not Found: Field
+Not Found: Blackboard bold
+Found: Mathematics
+Found: Rational number
+Found: Irrational number
+Not Found: Decimal
+Found: Real number
+Found: Nth root
+Found: Number
+Found: Exponentiation
+Not Found: Orthography
+Not Found: Dyslexia
+Found: Equations
+Found: Equation solving
+Found: Equation
+Found: Elementary algebra
+Not Found: Andrew Marr
+Not Found: Rosie Boycott
+Found: Mathematics education
+Found: Natural number
+Found: Set theory
+Found: Real number
+Found: Number
+Found: Mathematics
+Found: Inequalities
+Found: Economic inequality
+Found: Inequality
+Found: Infinity
+Found: Set theory
+Found: Real number
+Found: Number
+Found: Mathematics
+Found: Elementary mathematics
+Found: Integer
+Found: Rational number
+Found: Problem solving
+Found: Real number
+Found: Mathematics
+Not Found: Ring
+Found: Fractions
+Not Found: 0
+Found: Number
+Found: Integer
+Found: Mathematics
+Found: Real number
+Found: Rational number
+Found: Linear equation
+Found: Integer
+Found: Rational number
+Found: Problem
+Found: Mathematics
+Found: Problem solving
+Found: Exponentiation
+Found: Imaginary unit
+Found: Root of unity
+Found: Cube root
+Found: Square number
+Found: Nth root
+Found: Square root
+Found: Irrational number
+Found: Real number
+Found: Daily Express
+Found: Number
+Not Found: Decimal
+Found: Elementary algebra
+Found: Conversion of units
+Found: Units of measurement
+Not Found: SI prefix
+Not Found: Seafloor spreading
+Found: The Unit
+Found: Elementary mathematics
+Found: Perpendicular
+Found: Polar coordinate system
+Found: Euclidean geometry
+Found: Analytic geometry
+Found: Equations
+Found: Simultaneous equations
+Found: Linear equation
+Found: Elementary algebra
+Found: Statistics
+Not Found: Question
+Found: Data set
+Found: Number
+Found: Complex number
+Found: Exponentiation
+Found: Set theory
+Found: Natural number
+Not Found: Blackboard bold
+Found: Mathematics
+Found: Real number
+Found: Number
+Found: Real number
+Found: Set theory
+Found: Data set
+Found: Degree of a polynomial
+Found: Measurement
+Found: Arithmetic
+Not Found: Psychometrics
+Found: Randomization
+Found: Official statistics
+Found: Cluster sampling
+Found: Survey sampling
+Found: Sample size
+Found: Statistical population
+Found: Sample
+Found: Sampling
+Found: Randomness
+Found: Sample
+Found: Sample
+Found: Sampling
+Not Found: Shotgun formation
+Found: Informal logic
+Found: Number
+Found: Conditional probability
+Not Found: Stochastic
+Found: Network diagram
+Found: Fundamental physics concepts
+Found: Addition
+Found: Scatter plot
+Found: Real number
+Found: Integer
+Found: Straight Lines
+Found: Analytic geometry
+Found: Vector space
+Found: Line
+Found: Linear equation
+Found: Linear equation
+Found: Problem solving
+Found: Categorical distribution
+Found: Categorical data
+Found: Systems theory
+Found: Mathematics
+Found: Set theory
+Found: Binary relation
+Found: Function
+Found: Ordered pair
+Found: Real analysis
+Found: Graph of a function
+Found: Derivative
+Found: Binary relation
+Found: Convex function
+Found: Monotonic function
+Found: Functional analysis
+Found: Function
+Found: Curve
+Found: Line
+Found: Graph of a function
+Found: Linear equation
+Found: Derivative
+Found: Binary relation
+Found: Linear function
+Found: Function
+Found: Mathematics
+Found: Matrix
+Found: Binary relation
+Not Found: Sociology
+Found: Linear function
+Found: Derivative
+Found: Function
+Found: Set
+Found: Integer
+Not Found: Decimal
+Found: Mathematics
+Found: Continued fraction
+Found: Algebraic number
+Not Found: Dedekind cut
+Found: Rational number
+Found: Real number
+Found: Irrational number
+Found: Rational number
+Found: Set
+Found: Philosophical logic
+Found: Integer
+Found: Meaning of life
+Found: Conversion of units
+Not Found: Descriptive ethics
+Found: Abstract algebra
+Found: Vector space
+Found: Real number
+Found: Binary operations
+Not Found: Field
+Found: Integer
+Found: Matrix
+Found: Addition
+Found: Cartesian coordinate system
+Found: Imaginary unit
+Found: Polynomial
+Not Found: Blackboard bold
+Found: Grammatical number
+Found: Real number
+Found: Complex number
+Found: Number
+Not Found: Psychometrics
+Found: Measurement
+Found: Exponential function
+Found: Imaginary number
+Not Found: Field
+Found: Polynomial
+Not Found: Blackboard bold
+Found: Number
+Found: Complex number
+Found: Real number
+Found: Euler's formula
+Found: Absolute value
+Found: Number
+Found: Complex analysis
+Found: Imaginary number
+Found: Imaginary unit
+Found: Real number
+Found: Complex number
+Found: Exponential function
+Found: Number
+Not Found: Field
+Found: Fundamental theorem of algebra
+Found: Complex analysis
+Found: Real number
+Found: Polynomial
+Found: Complex number
+Found: Complex analysis
+Found: Euler's formula
+Found: Integer
+Found: Imaginary unit
+Found: Elementary arithmetic
+Found: Addition
+Found: Complex number
+Found: Real number
+Found: Complex analysis
+Found: Complex number
+Found: Mathematics
+Found: Root of a function
+Found: Equations
+Found: Mathematics in medieval Islam
+Found: Equation
+Found: Elementary algebra
+Found: Real number
+Found: Quadratic equation
+Found: Polynomial
+Found: Prime number
+Found: Mathematical theorems
+Found: Elementary algebra
+Found: Algebra
+Found: Real number
+Found: Mathematics
+Found: Polynomial
+Found: Fundamental theorem of algebra
+Not Found: Typography
+Found: Addition
+Found: Velocity
+Found: Problem solving
+Not Found: Field
+Found: Matrix
+Not Found: Game
+Found: Graph theory
+Not Found: Network theory
+Not Found: Field
+Found: Vector space
+Not Found: Group
+Found: Commutativity
+Found: Multiplication
+Found: Addition
+Found: Abstract algebra
+Found: Matrix
+Found: Algebra
+Found: Linear algebra
+Found: Integer
+Not Found: 0
+Found: Addition
+Found: Complex number
+Found: Multiplication
+Found: Real number
+Found: Vector
+Not Found: Field
+Not Found: Ring
+Not Found: Group
+Found: Linear algebra
+Found: Vector space
+Found: Euclidean vector
+Found: Matrix
+Not Found: Linguistics
+Found: Abstract algebra
+Found: Algebra
+Found: Mathematical notation
+Found: Calculus
+Found: Euclid's Elements
+Not Found: Summation
+Found: Series
+Found: Geometric series
+Found: Geometric progression
+Found: Real number
+Found: Elementary arithmetic
+Found: Integer
+Found: Addition
+Found: Arithmetic
+Found: Division
+Found: Fraction
+Found: Quotient
+Found: Division
+Found: Remainder
+Found: Mathematics
+Found: Graph of a function
+Found: Entire function
+Found: Complex analysis
+Found: Continuous function
+Found: Mathematics
+Found: Polynomial
+Found: Function
+Found: Exponentiation
+Found: Numerical analysis
+Found: Mathematics
+Found: Complex number
+Found: Elementary algebra
+Found: Real number
+Found: Coefficient
+Found: Integer
+Not Found: Pingala
+Found: Binomial
+Found: Mathematical induction
+Found: Pascal's triangle
+Found: Binomial theorem
+Found: Binomial coefficient
+Not Found: Decimal
+Found: Matrix
+Found: Polynomial
+Found: Degree of a polynomial
+Found: Mathematics
+Found: Computer algebra system
+Not Found: Field
+Found: Real number
+Found: Binary operations
+Found: Multiplication
+Found: Mathematics
+Found: Real number
+Found: Addition
+Not Found: Field
+Found: Elementary arithmetic
+Found: Integer
+Found: Binary relation
+Found: Expression
+Found: Elementary algebra
+Found: Problem solving
+Found: Derivative
+Found: Quadratic equation
+Found: Real number
+Found: Polynomial
+Found: Graph theory
+Found: Equations
+Found: Elementary algebra
+Found: Expression
+Found: Problem solving
+Not Found: Assumption of Mary
+Not Found: Amish
+Found: Diophantine equation
+Found: Expression
+Found: Polynomial
+Found: Polynomial
+Found: Elementary algebra
+Found: Completing the square
+Found: Quadratic function
+Found: Equations
+Found: Equation
+Found: Elementary algebra
+Found: Mathematics in medieval Islam
+Found: Polynomial
+Found: Quadratic equation
+Found: Arithmetic
+Found: Elementary algebra
+Found: Real number
+Found: Polynomial
+Found: Equation
+Found: Quintic equation
+Found: Equations
+Found: Linear equation
+Found: Elementary algebra
+Found: Quadratic equation
+Found: Elementary algebra
+Found: Linear map
+Found: Matrix
+Found: Matrix
+Found: Elementary algebra
+Found: System of linear equations
+Found: Linear algebra
+Found: Plane
+Found: Line segment
+Found: Euclidean geometry
+Found: Line
+Found: Curve
+Found: Analytic geometry
+Found: Equation
+Found: Function
+Found: Quadratic equation
+Found: Quintic equation
+Found: Elementary algebra
+Found: Derivative
+Found: Real number
+Found: Polynomial
+Found: Inequation
+Found: Inequalities
+Found: Inequality
+Found: Trichotomy
+Found: Bracket
+Found: Binary relation
+Not Found: The Domain, Sydney
+Found: Systems theory
+Found: Functions and mappings
+Found: Basic concepts in set theory
+Not Found: Codomain
+Found: Mathematics
+Found: Function
+Found: Function
+Not Found: Gottlob Frege
+Not Found: Gottfried Leibniz
+Found: Set
+Found: Natural number
+Found: Graph of a function
+Found: Basic concepts in set theory
+Not Found: The Domain, Sydney
+Found: Injective function
+Not Found: Codomain
+Found: Functions and mappings
+Found: Domain of a function
+Found: Function
+Found: Graph of a function
+Not Found: Key
+Found: Mathematics
+Found: Graph of a function
+Found: Function
+Found: Algebra
+Found: Sequence
+Found: Mathematics
+Found: Geometric progression
+Found: Function
+Found: Even and odd functions
+Found: Multivalued function
+Found: Continuous function
+Found: Image
+Found: Surjective function
+Found: Function composition
+Found: Injective function
+Found: Inverse function
+Found: Inverse function
+Found: Exponentiation
+Found: Logarithm
+Found: Problem solving
+Not Found: Proportionality
+Found: Binary relation
+Not Found: Lie group
+Found: Real number
+Found: Exponential growth
+Found: Mathematics
+Found: Geometric progression
+Found: Derivative
+Not Found: Proportionality
+Found: Real number
+Found: Linear function
+Found: Derivative
+Found: Function
+Found: Exponential growth
+Found: Exponentiation
+Not Found: Proportionality
+Found: Real number
+Not Found: Currying
+Found: Derivative
+Found: Euler's formula
+Found: Real number
+Found: Radian
+Found: Mathematics
+Found: Analytic geometry
+Found: Number
+Found: Unit circle
+Found: Trigonometry
+Found: Units of measurement
+Not Found: Grad
+Found: Arc
+Not Found: Pi
+Found: Unit circle
+Found: Radian
+Found: Angle
+Found: Trigonometry
+Found: Unit circle
+Found: Law of cosines
+Found: Continued fraction
+Found: Tangent
+Found: Circle
+Found: Real number
+Found: Trigonometry
+Found: Periodic function
+Found: Trigonometric functions
+Found: The Unit
+Found: Circles
+Not Found: Group
+Found: Circle
+Found: Trigonometry
+Found: Unit circle
+Found: Mathematics
+Found: Multivalued function
+Found: Continuous function
+Found: Image
+Found: Surjective function
+Found: Function composition
+Found: Injective function
+Found: Inverse function
+Found: Trigonometric functions
+Found: Functional analysis
+Found: Order theory
+Found: Injective function
+Found: Inverse function
+Found: Convex function
+Found: Monotonic function
+Found: Trigonometric functions
+Found: Function
+Found: Pentagon
+Found: Polygon
+Found: Quadrilateral
+Found: Regular polygon
+Found: Square
+Found: Right angle
+Found: Angle
+Found: Euclidean geometry
+Found: Problem solving
+Found: Subtraction
+Found: Plane
+Found: Euclidean geometry
+Found: Perpendicular
+Found: Central angle
+Found: Line segment
+Found: Elementary geometry
+Found: Parallel
+Found: Perpendicular
+Found: Congruence
+Found: Triangle
+Found: Congruence
+Found: Angle
+Found: Triangle
+Found: Euclidean geometry
+Not Found: Orientation
+Found: Line segment
+Found: Plane
+Found: Perpendicular
+Found: Angle
+Found: Parallel
+Found: Euclidean group
+Found: Geometry
+Not Found: Topology
+Not Found: Group
+Found: Geometry
+Found: Motion
+Found: Figure
+Not Found: Compass and straightedge constructions
+Found: Bisection
+Found: Circle
+Found: Polygon
+Found: Perpendicular
+Found: Angle
+Found: Elementary geometry
+Found: Pythagorean theorem
+Found: Isogonal figure
+Found: Isotoxal figure
+Found: Polygon
+Found: Square
+Found: Equilateral triangle
+Found: Polygons
+Found: Hexagon
+Found: Regular polygon
+Found: Scale
+Found: Scale factor
+Not Found: Proportionality
+Found: Similarity
+Found: Similarity
+Found: Meaning of life
+Found: Similarity
+Found: Pythagorean theorem
+Not Found: Shape
+Found: Similarity
+Found: Triangles
+Found: Triangle
+Found: Euclidean geometry
+Found: Problem solving
+Found: Congruence
+Found: Geometry
+Found: Special right triangles
+Found: Triangle
+Found: Right triangle
+Found: Triangles
+Found: Law of sines
+Found: Law of cosines
+Found: Angle
+Found: Hypotenuse
+Found: Triangles
+Found: Angle
+Found: Triangle
+Found: Right triangle
+Found: Mathematics
+Found: Pythagorean theorem
+Found: Law of cosines
+Found: Hypotenuse
+Found: Vector space
+Found: Plane
+Found: Volume
+Found: Angle
+Not Found: Plato
+Found: Trigonometric functions
+Found: Problem solving
+Found: Inscribed angle
+Found: Angle
+Found: Trigonometric functions
+Found: Triangle geometry
+Found: Trigonometry
+Found: Triangle
+Found: Law of sines
+Found: Law of cosines
+Found: Pythagorean triple
+Found: Mathematical proof
+Found: Theorem
+Found: Hypotenuse
+Found: Mathematics
+Found: Euclidean geometry
+Found: Geometry
+Found: Pythagorean theorem
+Not Found: Proportionality
+Found: Radian
+Found: Mathematical constant
+Found: Similarity
+Found: Angle
+Found: Circle
+Found: Circle
+Found: Geometry
+Found: Inscribed angle
+Found: Circles
+Found: Conic sections
+Found: Ellipse
+Found: Conic section
+Found: Focus
+Found: Hyperbola
+Found: Parabola
+Found: Tangent
+Found: Circle
+Found: Ellipse
+Not Found: Orientation
+Found: Problem solving
+Found: Geometry
+Found: Euclidean geometry
+Found: Plane
+Found: Perpendicular
+Found: Analytic geometry
+Found: Parallel
+Found: Geometry
+Found: Square
+Found: Geometry
+Found: Area
+Found: Surface area
+Found: Prism
+Found: Informal logic
+Found: Geometry
+Found: Radius
+Found: Cone
+Found: Volume
+Found: Dimension
+Found: Differential geometry
+Found: Informal logic
+Found: Napkin ring problem
+Found: Cavalieri's principle
+Found: Volume
+Found: Sphere
+Found: Sphere
+Found: Formula
+Found: Volume
+Not Found: Plant stem
+Not Found: Trunk
+Found: Tree
+Found: Square mile
+Found: Volume
+Found: Area
+Found: Mathematics
+Found: Number
+Found: Vector space
+Found: Number line
+Found: Real number
+Not Found: Architectural engineering
+Found: Problem solving
+Not Found: Type design
+Not Found: Group
+Not Found: Design
+Not Found: Typography
+Not Found: Communication design
+Found: Graphic design
+Found: Statistical dispersion
+Found: Arithmetic mean
+Found: Skewness
+Found: Interquartile range
+Found: Statistics
+Found: Median
+Found: Mean
+Found: Standard deviation
+Found: Data analysis
+Found: Data set
+Not Found: Pitch
+Found: Frequency distribution
+Found: Elementary mathematics
+Found: Translation
+Found: Linear equation
+Found: Constant term
+Found: Elementary algebra
+Found: Polynomial
+Found: Derivative
+Found: Statistics
+Found: Standard deviation
+Found: Normal distribution
+Found: Plot
+Found: Scatter plot
+Found: Randomness
+Found: Statistical population
+Found: Sampling
+Found: Computer graphics
+Found: Spearman's rank correlation coefficient
+Found: Pearson product-moment correlation coefficient
+Found: Correlation and dependence
+Not Found: Observational study
+Not Found: Experimental design
+Found: Scientific method
+Found: Correlation does not imply causation
+Found: Randomization
+Found: Statistics
+Not Found: Opinion poll
+Found: Cluster sampling
+Found: Sampling error
+Found: Sample
+Found: Sample size
+Found: Sampling
+Found: Randomization
+Found: Computer program
+Found: Naive set theory
+Found: Set
+Found: Mathematics
+Found: Event
+Found: Probability theory
+Found: Probability
+Found: Das Model
+Found: Probability theory
+Found: Probability space
+Found: Probability
+Found: Conditional probability
+Found: Event
+Found: Probability theory
+Found: Probability space
+Found: Conditional probability
+Found: Event
+Found: Probability
+Found: Probability
+Found: Frequency distribution
+Found: Conditional probability
+Found: Probability space
+Found: Probability theory
+Found: Event
+Found: Probability theory
+Found: Probability space
+Found: Probability
+Found: Conditional probability
+Found: Event
+Found: Das Model
+Found: Probability distribution
+Found: Probability
+Found: Probability and statistics
+Found: Event
+Found: Probability space
+Found: Probability density function
+Found: Probability theory
+Found: Random variable
+Found: Combination
+Found: Combinatorics
+Found: Binomial coefficient
+Found: Problem solving
+Found: Permutation
+Found: Cumulative distribution function
+Found: Probability and statistics
+Found: Probability distribution
+Found: Probability density function
+Found: Probability theory
+Found: Event
+Found: Random variable
+Found: Probability space
+Found: Probability and statistics
+Found: Expected value
+Found: Probability distribution
+Found: Probability space
+Found: Arithmetic mean
+Found: Probability theory
+Found: Probability density function
+Found: Random variable
+Found: Expected value
+Found: Probability distribution
+Found: Probability and statistics
+Found: Event
+Found: Probability space
+Found: Probability density function
+Found: Probability theory
+Found: Random variable
+Not Found: Slot machine
+Found: Random number generation
+Found: Cumulative distribution function
+Found: Randomization
+Found: Randomness
+Found: Hardware random number generator
+Not Found: Decision theory
+Found: Expected value
+Not Found: Blaise Pascal
+Not Found: Game theory
+Found: Random variable
+Found: Probability theory
+Found: Grammatical number
+Not Found: Game
+Not Found: Ice hockey
+Found: Exponentiation
+Not Found: 0
+Found: Computer
+Found: Number
+Found: Rational number
+Found: Irreducible fraction
+Found: Greatest common divisor
+Found: Elementary arithmetic
+Found: Fractions
+Found: Numbers
+Found: Egyptian fraction
+Found: Fraction
+Found: Integer
+Found: Fractions
+Found: Number
+Found: Rational number
+Found: Real number
+Found: Grammatical number
+Found: Number
+Found: Rational number
+Not Found: Decimal
+Not Found: Blackboard bold
+Found: Irrational number
+Found: Mathematics
+Found: Real number
+Found: Numerical digit
+Found: Factorization
+Found: Integer factorization
+Found: Elementary arithmetic
+Found: Mathematics
+Found: Fraction
+Found: Multiplicative function
+Found: Number
+Found: Arithmetic
+Not Found: Decimal
+Found: Integer
+Found: Exponentiation
+Found: Real number
+Found: Polar coordinate system
+Found: Analytic geometry
+Found: Euclidean distance
+Found: Absolute value
+Found: Natural number
+Found: Least common multiple
+Found: Arithmetic
+Found: Complex number
+Found: Number
+Found: Number theory
+Found: Factorization
+Found: Integer factorization
+Found: Integer
+Found: Numbers
+Found: Grammatical number
+Found: Number
+Found: Complex number
+Found: Imaginary unit
+Found: Elementary mathematics
+Found: Square root
+Found: Square number
+Not Found: Field
+Found: Real number
+Found: Irrational number
+Found: Numbers
+Found: Grammatical number
+Found: Number
+Found: Set
+Found: Integer
+Found: Complex number
+Found: Matrix
+Found: Number
+Not Found: Field
+Found: Real number
+Found: Complex analysis
+Found: Integer
+Found: Vector space
+Found: Elementary arithmetic
+Found: Addition
+Found: Multiplication
+Not Found: Concepts
+Not Found: Blackboard bold
+Found: Number
+Not Found: Decimal
+Found: Rational number
+Found: Irrational number
+Found: Mathematics
+Found: Real number
+Found: P-adic number
+Found: Numeral system
+Found: Number
+Found: Square root
+Found: Rational number
+Not Found: Georg Cantor
+Found: Nth root
+Found: Complex number
+Found: Real number
+Found: Irrational number
+Found: Number
+Found: Cartesian coordinate system
+Found: Imaginary unit
+Found: Polynomial
+Not Found: Blackboard bold
+Found: Real number
+Not Found: Quaternion
+Found: Complex number
+Found: Number
+Found: Problem solving
+Not Found: Knitting
+Not Found: Pattern
+Found: Gene expression
+Found: Expression
+Found: Exponentiation
+Not Found: 0
+Found: Number
+Found: Rational number
+Not Found: Field
+Found: Problem solving
+Found: Additive inverse
+Found: Mathematics
+Found: Real number
+Found: Integer
+Found: Rational number
+Found: Problem solving
+Found: Multiplication
+Found: Exponentiation
+Found: Addition
+Found: Monotonic function
+Found: Function
+Not Found: Psychological thriller films
+Not Found: English-language films
+Not Found: Pattern
+Found: Rational number
+Found: Value
+Found: Arithmetic mean
+Found: Algebraic number theory
+Found: Integral domain
+Found: Rational number
+Not Found: Field
+Not Found: Cost accounting
+Not Found: Ring
+Found: Linear function
+Found: Derivative
+Found: Binary relation
+Not Found: Gottfried Leibniz
+Found: Quadratic equation
+Found: Mathematics
+Found: Real number
+Not Found: Mile
+Found: SI derived unit
+Found: Systems of measurement
+Found: Imperial units
+Found: Problem solving
+Found: Units of measurement
+Found: Expression
+Found: Polynomial
+Not Found: Hyperplane
+Found: Line
+Found: Elementary algebra
+Found: Inequalities
+Found: Economic inequality
+Found: Method acting
+Found: Negative and non-negative numbers
+Found: Inequality
+Found: Numbers
+Found: Number
+Found: Problem solving
+Found: Real number
+Found: Completing the square
+Found: Quadratic function
+Found: Polynomial
+Found: Equations
+Found: Equation
+Found: Elementary algebra
+Found: Quadratic equation
+Found: Completing the square
+Found: Quadratic function
+Found: Polynomial
+Found: Equations
+Found: Equation
+Found: Elementary algebra
+Found: Quadratic equation
+Found: Square
+Found: Square root
+Found: Square number
+Found: Cube
+Found: Square number
+Found: Natural number
+Not Found: 0
+Found: Set
+Found: Integer
+Found: Defined and undefined
+Found: Division by zero
+Found: Expression
+Found: Mathematics
+Not Found: Ring
+Found: Continuous function
+Not Found: Gottfried Leibniz
+Found: Polynomial
+Found: Mathematical logic
+Found: Recurrence relation
+Found: Range
+Found: Injective function
+Found: Domain of a function
+Found: Image
+Found: Graph of a function
+Not Found: Codomain
+Found: Function
+Not Found: Quantitative research
+Found: Function
+Found: Function model
+Not Found: Input/output
+Not Found: Output
+Found: Systems theory
+Not Found: Input
+Found: Mathematics
+Not Found: The Domain, Sydney
+Found: Meromorphic function
+Found: Integral domain
+Not Found: Field
+Found: Polynomial
+Found: Rational function
+Found: Function
+Found: Polynomial
+Not Found: Gottlob Frege
+Not Found: Communication
+Not Found: Gottfried Leibniz
+Found: Graph of a function
+Found: Asymptote
+Found: Mathematics
+Found: Meromorphic function
+Found: Limit of a function
+Found: Rational function
+Found: Function
+Found: Function
+Not Found: Gottfried Leibniz
+Found: Analytic geometry
+Found: Elementary algebra
+Found: Expression
+Found: Polynomial
+Found: Problem solving
+Found: Elementary algebra
+Found: Linear equation
+Found: Real number
+Found: Inequalities
+Found: Elementary algebra
+Found: Economic inequality
+Found: Method acting
+Found: Trichotomy
+Found: Negative and non-negative numbers
+Found: Binary relation
+Found: Inequality
+Found: Completing the square
+Found: Quadratic function
+Found: Polynomial
+Found: Equations
+Found: Equation
+Found: Elementary algebra
+Found: Quadratic equation
+Found: Absolute value
+Found: Recursion
+Found: Prime number
+Not Found: Ring
+Found: Function composition
+Found: Logarithm
+Found: Methods of contour integration
+Found: Complex number
+Found: Mathematics
+Found: Interval
+Found: Vector space
+Found: Elementary arithmetic
+Found: Problem solving
+Found: Expression
+Not Found: Management
+Found: Elementary algebra
+Found: Binary relation
+Found: Inequation
+Found: Mathematics
+Not Found: Gottfried Leibniz
+Found: Real number
+Found: Absolute value
+Found: Division algorithm
+Found: Integer
+Found: Division
+Found: Modular arithmetic
+Found: Quotient
+Found: Division
+Found: Mathematics
+Found: Remainder
+Found: Model
+Found: Derivative
+Found: Sequence
+Found: Geometric progression
+Found: Trigonometry
+Found: Trigonometric functions
+Found: Circles
+Found: Circle
+Found: Trigonometry
+Found: Unit circle
+Found: Problem solving
+Found: Expression
+Found: Line segment
+Found: Geometry
+Found: Length
+Found: Circle
+Found: Polygon
+Found: Curve
+Found: Line
+Not Found: Inch
+Found: Systems of measurement
+Found: International System of Units
+Found: Square
+Found: Rectangle
+Found: Angle
+Found: Angle
+Found: Square
+Found: Rectangle
+Found: Polygons
+Found: Triangle geometry
+Found: Special right triangles
+Found: Triangles
+Found: Pythagorean theorem
+Found: Triangle
+Found: Right triangle
+Found: Hypotenuse
+Not Found: Concepts in metaphysics
+Not Found: Left-wing politics
+Found: Geometry
+Found: Angle
+Found: Angle
+Found: Polygon
+Found: Complementary angles
+Found: Geometry
+Found: Congruence
+Found: Special right triangles
+Found: Triangle
+Found: Geometry
+Not Found: Metrology
+Found: Measuring instrument
+Found: Test method
+Found: Measurement
+Found: Square
+Found: Rectangle
+Not Found: Pi
+Found: Circle
+Found: Special right triangles
+Found: Inverse trigonometric functions
+Found: Law of cosines
+Found: Trigonometry
+Found: Triangles
+Found: Triangle
+Found: Triangle geometry
+Found: Right triangle
+Found: Hypotenuse
+Found: Pythagorean theorem
+Found: Line segment
+Found: Elementary geometry
+Found: Curve
+Found: Line
+Not Found: Wilt Chamberlain
+Not Found: Unincorporated communities in West Virginia
+Found: Congruence
+Found: Triangle
+Found: Surface area
+Found: Cone
+Found: Probability theory
+Found: Geometry
+Found: Area
+Found: Volume
+Found: Prism
+Found: Integral
+Found: Pythagorean triple
+Found: Mathematical proof
+Found: Theorem
+Found: Mathematics
+Found: Pythagorean theorem
+Found: Problem solving
+Found: Trigonometry
+Not Found: Orientation
+Found: Geometry
+Found: Plane
+Found: Perpendicular
+Found: Parallel
+Found: Distance
+Found: Distance
+Found: Analytic geometry
+Found: Euclidean space
+Found: Conic sections
+Not Found: Archimedes
+Found: Circumference
+Found: Diameter
+Found: Circle
+Found: Ellipse
+Found: Conic section
+Found: Focus
+Found: Geometry
+Found: Scale factor
+Found: Addition
+Not Found: 0
+Found: Integer
+Found: Problem solving
+Not Found: Infographics
+Found: Probability theory
+Found: Statistics
+Found: Probability
+Found: Applied mathematics
+Found: Number
+Not Found: Summation
+Found: Arithmetic
+Found: Data modeling
+Found: Computer
+Found: Graph theory
+Not Found: Bar chart
+Not Found: Chart
+Found: Counting
+Found: Frequency distribution
+Found: Venn diagram
+Found: Weighted mean
+Found: Scientific modeling
+Found: Mathematics
+Found: Statistical theory
+Not Found: Sociology
+Not Found: Communication
+Found: Frequency distribution
+Found: Event
+Found: Probability
+Found: Probability space
+Found: Probability theory
+Found: Event
+Found: Frequency distribution
+Found: Mode
+Found: Event
+Not Found: Observational study
+Not Found: Experimental design
+[ '0',
+  '10',
+  'Abacus',
+  'Amish',
+  'Analog_signal',
+  'Analog_television',
+  'Andrew_Marr',
+  'Answer',
+  'Archimedes',
+  'Architectural_engineering',
+  'Array',
+  'Assumption_of_Mary',
+  'Astronomical_clock',
+  'Bar_chart',
+  'Blackboard_bold',
+  'Blaise_Pascal',
+  'Calculator',
+  'Category',
+  'Category_theory',
+  'Chart',
+  'Clock',
+  'Codomain',
+  'Cognition',
+  'Communication',
+  'Communication_design',
+  'Compass_and_straightedge_constructions',
+  'Concepts',
+  'Concepts_in_metaphysics',
+  'Cost_accounting',
+  'Currying',
+  'Decimal',
+  'Decision_theory',
+  'Decomposition',
+  'Dedekind_cut',
+  'Density',
+  'Descriptive_ethics',
+  'Design',
+  'Divisor',
+  'Drawing',
+  'Dyslexia',
+  'Earth',
+  'Ecology',
+  'Electric_charge',
+  'English-language_films',
+  'English_language',
+  'Environment',
+  'Environmentalism',
+  'Estimation',
+  'Experimental_design',
+  'Field',
+  'Following',
+  'Game',
+  'Game_theory',
+  'Georg_Cantor',
+  'Gottfried_Leibniz',
+  'Gottlob_Frege',
+  'Grad',
+  'Group',
+  'Hexadecimal',
+  'Hour',
+  'Hyperplane',
+  'Ice_hockey',
+  'Inch',
+  'Infographics',
+  'Input',
+  'Input/output',
+  'Key',
+  'Kilogram',
+  'Knitting',
+  'Left-wing_politics',
+  'Lie_group',
+  'Linguistics',
+  'Litre',
+  'Management',
+  'Metre',
+  'Metrology',
+  'Microeconomics',
+  'Mile',
+  'Network_theory',
+  'Object',
+  'Observational_study',
+  'Ontology',
+  'Opinion_poll',
+  'Orientation',
+  'Orthography',
+  'Output',
+  'Painting',
+  'Parity',
+  'Pattern',
+  'Perception',
+  'Perl',
+  'Philosophy_of_language',
+  'Pi',
+  'Pingala',
+  'Pitch',
+  'Plan',
+  'Plant_stem',
+  'Plato',
+  'Pound',
+  'Proportionality',
+  'Psychological_thriller_films',
+  'Psychometrics',
+  'Quantitative_research',
+  'Quantity',
+  'Quarters',
+  'Quaternion',
+  'Question',
+  'RenÃ©_Descartes',
+  'Ring',
+  'Rosie_Boycott',
+  'Ruler',
+  'SI_prefix',
+  'Seafloor_spreading',
+  'Shape',
+  'Share',
+  'Shareholder',
+  'Shotgun_formation',
+  'Sing_Tao_Daily',
+  'Slot_machine',
+  'Sociology',
+  'Stochastic',
+  'Stock',
+  'Stock_market',
+  'Strategy',
+  'Summation',
+  'Technical_drawing',
+  'The_Chronicles_of_Amber',
+  'The_Domain,_Sydney',
+  'The_Unknown',
+  'Topology',
+  'Trunk',
+  'Type_design',
+  'Typography',
+  'Unincorporated_communities_in_West_Virginia',
+  'Universe',
+  'Virtual_instrumentation',
+  'Wilt_Chamberlain',
+  'Word',
+  'World',
+  'Writing' ]
+Total concepts rejected: 140
+[ 'Absolute_value',
+  'Abstract_algebra',
+  'Addition',
+  'Additive_inverse',
+  'Algebra',
+  'Algebraic_number',
+  'Algebraic_number_theory',
+  'Algorithm',
+  'Analytic_geometry',
+  'Angle',
+  'Applied_mathematics',
+  'Approximation',
+  'Arc',
+  'Area',
+  'Arithmetic',
+  'Arithmetic_mean',
+  'Asymptote',
+  'Basic_concepts_in_set_theory',
+  'Binary_operations',
+  'Binary_relation',
+  'Binomial',
+  'Binomial_coefficient',
+  'Binomial_theorem',
+  'Bisection',
+  'Bracket',
+  'Calculus',
+  'Cartesian_coordinate_system',
+  'Cartesian_product',
+  'Categorical_data',
+  'Categorical_distribution',
+  'Cavalieri\'s_principle',
+  'Central_angle',
+  'Circle',
+  'Circles',
+  'Circumference',
+  'Cluster_sampling',
+  'Coefficient',
+  'Combination',
+  'Combinatorics',
+  'Commutativity',
+  'Comparison',
+  'Comparisons',
+  'Complementary_angles',
+  'Completing_the_square',
+  'Complex_analysis',
+  'Complex_number',
+  'Composition',
+  'Computer',
+  'Computer_algebra_system',
+  'Computer_data',
+  'Computer_graphics',
+  'Computer_program',
+  'Conditional_probability',
+  'Cone',
+  'Congruence',
+  'Conic_section',
+  'Conic_sections',
+  'Constant_term',
+  'Continued_fraction',
+  'Continuous_function',
+  'Conversion_of_units',
+  'Convex_function',
+  'Coordinate_system',
+  'Coordinate_systems',
+  'Correlation_and_dependence',
+  'Correlation_does_not_imply_causation',
+  'Counting',
+  'Counting_rods',
+  'Cube',
+  'Cube_root',
+  'Cuboid',
+  'Cumulative_distribution_function',
+  'Curve',
+  'Daily_Express',
+  'Das_Model',
+  'Data',
+  'Data_analysis',
+  'Data_modeling',
+  'Data_set',
+  'Defined_and_undefined',
+  'Degree_of_a_polynomial',
+  'Derivative',
+  'Diameter',
+  'Difference',
+  'Differential_geometry',
+  'Digital',
+  'Digital_clock',
+  'Digital_television',
+  'Dimension',
+  'Dimensional_analysis',
+  'Diophantine_equation',
+  'Distance',
+  'Distributivity',
+  'Divide_and_conquer_algorithm',
+  'Division',
+  'Division_algorithm',
+  'Division_by_zero',
+  'Domain_of_a_function',
+  'Economic_inequality',
+  'Egyptian_fraction',
+  'Elementary_algebra',
+  'Elementary_arithmetic',
+  'Elementary_geometry',
+  'Elementary_mathematics',
+  'Ellipse',
+  'Entire_function',
+  'Equality',
+  'Equals_sign',
+  'Equation',
+  'Equation_solving',
+  'Equations',
+  'Equilateral_triangle',
+  'Euclid\'s_Elements',
+  'Euclidean_distance',
+  'Euclidean_geometry',
+  'Euclidean_group',
+  'Euclidean_space',
+  'Euclidean_vector',
+  'Euler\'s_formula',
+  'Even_and_odd_functions',
+  'Event',
+  'Expected_value',
+  'Exponential_function',
+  'Exponential_growth',
+  'Exponentiation',
+  'Expression',
+  'Factorization',
+  'Figure',
+  'Finger_counting',
+  'Finite_set',
+  'Focus',
+  'Formal_system',
+  'Formula',
+  'Fraction',
+  'Fractions',
+  'Frequency_distribution',
+  'Function',
+  'Function_composition',
+  'Function_model',
+  'Functional_analysis',
+  'Functions_and_mappings',
+  'Fundamental_physics_concepts',
+  'Fundamental_theorem_of_algebra',
+  'Gene_expression',
+  'Geometric_progression',
+  'Geometric_series',
+  'Geometry',
+  'Glossary_of_shapes_with_metaphorical_names',
+  'Grammatical_number',
+  'Graph_of_a_function',
+  'Graph_theory',
+  'Graphic_design',
+  'Greatest_common_divisor',
+  'Hardware_random_number_generator',
+  'Harshad_number',
+  'Heron\'s_formula',
+  'Hexagon',
+  'Hyperbola',
+  'Hypotenuse',
+  'Image',
+  'Imaginary_number',
+  'Imaginary_unit',
+  'Imperial_units',
+  'Inductive_reasoning',
+  'Inequalities',
+  'Inequality',
+  'Inequation',
+  'Infinity',
+  'Informal_logic',
+  'Injective_function',
+  'Inscribed_angle',
+  'Integer',
+  'Integer_factorization',
+  'Integer_sequences',
+  'Integral',
+  'Integral_domain',
+  'International_System_of_Units',
+  'Interquartile_range',
+  'Interval',
+  'Inverse_function',
+  'Inverse_trigonometric_functions',
+  'Irrational_number',
+  'Irreducible_fraction',
+  'Isogonal_figure',
+  'Isotoxal_figure',
+  'Japanese_numerals',
+  'Karatsuba_algorithm',
+  'Law_of_cosines',
+  'Law_of_sines',
+  'Least_common_multiple',
+  'Length',
+  'Limit_of_a_function',
+  'Line',
+  'Line_segment',
+  'Linear_algebra',
+  'Linear_equation',
+  'Linear_function',
+  'Linear_map',
+  'Logarithm',
+  'Mass',
+  'Mathematical_constant',
+  'Mathematical_induction',
+  'Mathematical_logic',
+  'Mathematical_notation',
+  'Mathematical_proof',
+  'Mathematical_theorems',
+  'Mathematics',
+  'Mathematics_education',
+  'Mathematics_in_medieval_Islam',
+  'Matrix',
+  'Mean',
+  'Meaning_of_life',
+  'Measurement',
+  'Measuring_instrument',
+  'Median',
+  'Meromorphic_function',
+  'Method_acting',
+  'Methods_of_contour_integration',
+  'Metric_system',
+  'Mode',
+  'Model',
+  'Modular_arithmetic',
+  'Monotonic_function',
+  'Motion',
+  'Multiplication',
+  'Multiplicative_function',
+  'Multiplicative_inverse',
+  'Multivalued_function',
+  'Naive_set_theory',
+  'Names_of_large_numbers',
+  'Napkin_ring_problem',
+  'Natural_environment',
+  'Natural_number',
+  'Negative_and_non-negative_numbers',
+  'Network_diagram',
+  'Nine-point_circle',
+  'Normal_distribution',
+  'Nth_root',
+  'Number',
+  'Number_line',
+  'Number_sense',
+  'Number_theory',
+  'Numbers',
+  'Numeral_system',
+  'Numerical_analysis',
+  'Numerical_digit',
+  'Official_statistics',
+  'Operation',
+  'Order_theory',
+  'Ordered_pair',
+  'Orders_of_magnitude',
+  'P-adic_number',
+  'Parabola',
+  'Parallel',
+  'Parallelepiped',
+  'Part',
+  'Pascal\'s_triangle',
+  'Pearson_product-moment_correlation_coefficient',
+  'Pentagon',
+  'Periodic_function',
+  'Permutation',
+  'Perpendicular',
+  'Philosophical_logic',
+  'Plane',
+  'Plot',
+  'Plus_and_minus_signs',
+  'Polar_coordinate_system',
+  'Polygon',
+  'Polygons',
+  'Polynomial',
+  'Prime_number',
+  'Prism',
+  'Probability',
+  'Probability_and_statistics',
+  'Probability_density_function',
+  'Probability_distribution',
+  'Probability_space',
+  'Probability_theory',
+  'Problem',
+  'Problem_solving',
+  'Pythagorean_theorem',
+  'Pythagorean_triple',
+  'Quadratic_equation',
+  'Quadratic_function',
+  'Quadrilateral',
+  'Quadrilaterals',
+  'Quintic_equation',
+  'Quotient',
+  'Radian',
+  'Radius',
+  'Random_number_generation',
+  'Random_variable',
+  'Randomization',
+  'Randomness',
+  'Range',
+  'Ratio',
+  'Rational_function',
+  'Rational_number',
+  'Rationality',
+  'Ratios',
+  'Real_analysis',
+  'Real_number',
+  'Rectangle',
+  'Recurrence_relation',
+  'Recursion',
+  'Regular_polygon',
+  'Remainder',
+  'Right_angle',
+  'Right_triangle',
+  'Roman_numerals',
+  'Root_of_a_function',
+  'Root_of_unity',
+  'SI_derived_unit',
+  'Sample',
+  'Sample_size',
+  'Sampling',
+  'Sampling_error',
+  'Scale',
+  'Scale_factor',
+  'Scatter_plot',
+  'Scientific_method',
+  'Scientific_modeling',
+  'Sequence',
+  'Series',
+  'Set',
+  'Set_theory',
+  'Similarity',
+  'Simultaneous_equations',
+  'Skewness',
+  'Spearman\'s_rank_correlation_coefficient',
+  'Special_right_triangles',
+  'Sphere',
+  'Spherical_coordinate_system',
+  'Square',
+  'Square_mile',
+  'Square_number',
+  'Square_root',
+  'Standard_deviation',
+  'Standardization',
+  'Statistical_dispersion',
+  'Statistical_population',
+  'Statistical_theory',
+  'Statistics',
+  'Straight_Lines',
+  'Subtraction',
+  'Surface_area',
+  'Surjective_function',
+  'Survey_sampling',
+  'Symmetry',
+  'System_of_linear_equations',
+  'Systems_of_measurement',
+  'Systems_theory',
+  'Tangent',
+  'Tape_measure',
+  'Test_method',
+  'The_Great_Unknown',
+  'The_Unit',
+  'Theorem',
+  'Time',
+  'Translation',
+  'Tree',
+  'Triangle',
+  'Triangle_geometry',
+  'Triangles',
+  'Trichotomy',
+  'Trigonometric_functions',
+  'Trigonometry',
+  'Unit_circle',
+  'Units_of_measurement',
+  'Value',
+  'Vector',
+  'Vector_space',
+  'Velocity',
+  'Venn_diagram',
+  'Volume',
+  'Weighted_mean',
+  'Writing_system' ]
+Total concepts accepted: 377
+Hit ratio: 0.7292069632495164
+Miss ratio: 0.27079303675048355
